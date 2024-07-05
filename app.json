@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "userInterfaceStyle": "automatic",
+    "orientation": "default",
+    "web": {
+      "output": "static",
+      "bundler": "metro"
+    },
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "origin": "https://n"
+        }
+      ]
+    ],
+    "name": "first",
+    "slug": "first",
+    "extra": {
+      "router": {
+        "origin": "https://n"
+      },
+      "eas": {
+        "projectId": "2ee321da-c3ee-4657-845c-545b9db393fc"
+      }
+    },
+    "android": {
+      "package": "com.himal1040.first"
+    }
+  }
+}
